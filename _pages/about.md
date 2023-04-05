@@ -2,24 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://scholars.cityu.edu.hk/en/persons/lingxuan-tang(e4b53c2c-0dab-425d-8819-f1210767a5ca).html'>Department of Advanced Design and Systems Engineering, City University of Hong Kong</a>, Kowloon Tong, Kowloon, Hong Kong.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my1.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m a Ph.D. candidate in Advanced Design & Systems Engineering at City University of Hong Kong (CityU), where I am so fortunate to be supervised by [Prof. Chuangyin DANG](https://www.cityu.edu.hk/adse/mecdang.htm). I obtained my B.E. degree in automation from Harbin Institute of Technology in 2021.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-My boyfriend is LI Hongzong. He is also my future husband. Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research areas including:
+Game Theory and Applications, Economics and Computation.
