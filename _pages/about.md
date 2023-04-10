@@ -19,3 +19,5 @@ I’m a Ph.D. candidate in Advanced Design & Systems Engineering at City Univers
 
 My research areas including:
 Game Theory and Applications, Economics and Computation.
+
+***CHEN Zhongying will graduate in 2023 summer and is currently on the job market. Wellcome to visit [his homepage](https://zhongyingchen.github.io/) and contact him!**
