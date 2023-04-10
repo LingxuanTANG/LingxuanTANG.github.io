@@ -1,12 +1,13 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: teaching & experience
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+* ***Sep. 2022 – Dec. 2022:*** Teacher in ADSE5010 Eng Mgt Princpls and Concepts at CityU, Hong Kong. ([course details](../assets/pdf/ADSE5010.pdf))
+* ***Jan. 2023 – Apr. 2023:*** Teacher in ADSE2100 Engr. Statistics & Exper'ation at CityU, Hong Kong. ([course details](../assets/pdf/ADSE2100.pdf))
 
-Organize your courses by years, topics, or universities, however you like!
+* ***Jul. 2020 – Sep. 2020:*** Algorithm Intern in [CommaTech](http://www.smartcomma.com/), Shenzhen, China.
