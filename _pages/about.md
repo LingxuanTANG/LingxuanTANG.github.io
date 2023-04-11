@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.cityu.edu.hk/adse/'>Department of Advanced Design and Systems Engineering, City University of Hong Kong</a>, Kowloon Tong, Kowloon, Hong Kong.
+subtitle: <a href='https://scholars.cityu.edu.hk/en/persons/lingxuan-tang(e4b53c2c-0dab-425d-8819-f1210767a5ca).html'>Department of Advanced Design and Systems Engineering, City University of Hong Kong</a>, Kowloon Tong, Kowloon, Hong Kong.
 
 profile:
   align: right
