@@ -23,21 +23,30 @@ category: fun
         {% include figure.html path="assets/img/NL/20176.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="row">
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/NL/i2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-7 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/NL/i5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 <div class="caption">
     Roaming in the Museums.    
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/NL/img4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/NL/i4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/NL/img3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/NL/i3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Friends.
 </div>
+
 
 
 
