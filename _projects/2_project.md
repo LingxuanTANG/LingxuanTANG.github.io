@@ -27,13 +27,12 @@ category: fun
 <div class="caption">
     The big family of the instrumental club!
 </div>
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/passion/20173.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/passion/20176.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/passion/176.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -49,7 +48,7 @@ category: fun
         {% include figure.html path="assets/img/passion/20175.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/passion/20177.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/passion/177.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
