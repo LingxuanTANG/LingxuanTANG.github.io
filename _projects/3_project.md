@@ -2,7 +2,7 @@
 layout: page
 title: exchange in the Netherlands
 description: A wonderful experience
-img: assets/img/NL/img1.jpg
+img: assets/img/NL/3_1997.jpg
 importance: 3
 category: fun
 ---
@@ -17,7 +17,7 @@ category: fun
 </div>
 <div class="row">
     <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/NL/img1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/NL/3_1997.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/NL/20176.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
