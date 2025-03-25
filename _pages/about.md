@@ -14,8 +14,6 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Biography
----
 Ph.D. candidate\\
 Department of Systems Engineering\\
 City University of Hong Kong (CityU)
@@ -29,7 +27,7 @@ Game Theory and Applications, Economics and Computation，Gragh Machine Learning
 
 ### Education
 City University of Hong Kong, Kowloon Tong(CityU), Kowloon, Hong Kong.\\
-Ph.D candidate. in the <a href='https://www.cityu.edu.hk/sye/'>Department of Systems Engineering (SYE)</a>, College of Engineering\\
+Ph.D candidate. in the Department of Systems Engineering (SYE), College of Engineering\\
 Advisor: [Prof. Chuangyin DANG](https://www.cityu.edu.hk/adse/mecdang.htm)\\
 Research Interests: Game Theory and Applications, Economics and Computation, Systems Modeling and Optimization\\
 Sep.2021 - Now
