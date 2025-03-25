@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -21,6 +21,8 @@ City University of Hong Kong (CityU)
 Office: P7508 (Yeung)\\
 Phone: (852) 97110226\\
 Email: lingxuantang@outlook.com
+
+I am expected to receive a Ph.D. degree in October 2025 and is currently seeking employment opportunities. If you are hiring, know someone who is, or share similar research interests, please feel free to contact me. Let’s explore potential collaborations or engage in meaningful discussions.
 
 My research areas including:
 Game Theory and Applications, Economics and Computation，Gragh Machine Learning.
