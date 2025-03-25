@@ -6,7 +6,7 @@ subtitle: <a href='https://www.cityu.edu.hk/sye/'>Department of Systems Engineer
 
 profile:
   align: right
-  image: Personal2.JPG
+  image: Personal2.jpg
   image_circular: true # crops the image to make it circular
   address: >
 
