@@ -14,15 +14,14 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-subtitle: Biography
----
-Ph.D. candidate
-Department of Systems Engineering
-City University of Hong Kong (CityU)
-
-Office: P7508 (Yeung)
-Phone: (852) 97110226
-Email: lingxuantang@outlook.com
+subtitle: Biography\\
+Ph.D. candidate\\
+Department of Systems Engineering\\
+City University of Hong Kong (CityU)\\
+\\
+Office: P7508 (Yeung)\\
+Phone: (852) 97110226\\
+Email: lingxuantang@outlook.com\\
 
 My research areas including:
 Game Theory and Applications, Economics and Computation，Gragh Machine Learning.
