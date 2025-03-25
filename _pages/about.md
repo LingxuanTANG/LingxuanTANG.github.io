@@ -7,7 +7,7 @@ subtitle: <a href='https://www.cityu.edu.hk/sye/'>Department of Systems Engineer
 profile:
   align: right
   image: Personal2.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
 
 news: true  # includes a list of news items
