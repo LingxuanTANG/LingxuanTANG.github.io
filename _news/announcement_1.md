@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 1999-12-04 09:30:00-0400
+date: 2025-3-04 
 inline: true
 related_posts: false
 ---
 
-An adorable baby was born :sunglasses:.
+Lingxuan is expected to receive a Ph.D. degree in October 2025 and is currently seeking employment opportunities. Please feel free to contact me with any inquiries :blush:.
