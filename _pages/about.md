@@ -41,7 +41,7 @@ Research Interests: Dynamic Decision-Making, Collaborative Systems, Complex Netw
 Sep.2017 - Aug.2021
 
 ### Working Experience
-* Sep. 2022 – Dec. 2022: Teacher in ADSE5010 Eng Mgt Princpls and Concepts at CityU, Hong Kong.\\
-* Jan. 2023 – Apr. 2023: Teaching in ADSE2100 Engr. Statistics & Exper'ation at CityU, Hong Kong.\\
-* Sep. 2023 – Dec. 2024: Teaching in ADSE4005 Indu Data & Manufact'g Analyat CityU, Hong Kong.\\
+* Sep. 2022 – Dec. 2022: Teacher in ADSE5010 Eng Mgt Princpls and Concepts at CityU, Hong Kong.
+* Jan. 2023 – Apr. 2023: Teaching in ADSE2100 Engr. Statistics & Exper'ation at CityU, Hong Kong.
+* Sep. 2023 – Dec. 2024: Teaching in ADSE4005 Indu Data & Manufact'g Analyat CityU, Hong Kong.
 * Jul. 2020 – Sep. 2020: Algorithm Intern in [CommaTech](https://www.smartcomma.com/), Shenzhen, China.
