@@ -35,7 +35,7 @@ Research Interests: Game Theory and Applications, Economics and Computation, Sys
 Sep.2021 - Now
 
 * Harbin Institute of Technology(HIT)\\
-B.E. degree in automation\\
+B.E. degree in Automation\\
 Advisor: [Prof. Yunjiang Lou](https://faculty.hitsz.edu.cn/louyunjiang)\\
 Research Interests: Robotics and Motion Control\\
 Advisor: [Prof. Gangyan XU](http://xugangyan.cn/)\\
