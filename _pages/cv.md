@@ -4,5 +4,5 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 0
-cv_pdf: Curriculum Vitae_TLX.pdf
+cv_pdf: CV_English_Academic.pdf
 ---
