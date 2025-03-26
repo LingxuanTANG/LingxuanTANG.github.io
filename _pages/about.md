@@ -22,10 +22,10 @@ Office: P7508 (Yeung)\\
 Phone: (852) 97110226\\
 Email: lingxuantang@outlook.com
 
-I am expected to receive a Ph.D. degree in October 2025 and is currently seeking employment opportunities. If you are hiring, know someone who is, or share similar research interests, please feel free to contact me. Let’s explore potential collaborations or engage in meaningful discussions.
+I am expected to receive a Ph.D. in October 2025 and am currently seeking employment opportunities. If you are hiring or know someone who is or shares similar research interests, please feel free to contact me. Let’s explore potential collaborations or engage in meaningful discussions.
 
-My research areas including:
-Game Theory and Applications, Economics and Computation，Gragh Machine Learning.
+My research areas include:
+Game Theory and Applications, Gragh Machine Learning.
 
 ### Education
 * City University of Hong Kong, Kowloon Tong(CityU)\\
