@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching & experience
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 
 * ***Sep. 2022 – Dec. 2022:*** Teacher in ADSE5010 Eng Mgt Princpls and Concepts at CityU, Hong Kong. ([course details](../assets/pdf/ADSE5010.pdf))
