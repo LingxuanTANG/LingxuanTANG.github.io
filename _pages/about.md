@@ -14,25 +14,27 @@ news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-Ph.D. candidate\\
+Post-doc -- now\\
+Southern University of Science and Technology, China\\
+
+Ph.D\\
 Department of Systems Engineering\\
 City University of Hong Kong (CityU)
 
-Office: P7508 (Yeung)\\
 Phone: (852) 97110226\\
 Email: lingxuantang@outlook.com
 
-I am expected to receive a Ph.D. in October 2025 and am currently seeking employment opportunities. If you are hiring or know someone who is or shares similar research interests, please feel free to contact me. Let’s explore potential collaborations or engage in meaningful discussions.
+I am a post-doc researcher at Southern University of Science and Technology, School of Management, collaborating with [Prof. Rowan Wang](https://www.sustech.edu.cn/zh/faculties/rowan-wang.html) and [Prof. Ying He](https://www.sustech.edu.cn/zh/faculties/yinghe.html). I received a Ph.D. in October 2025. I will be seeking employment opportunities in 2027-2028. If you are hiring or know someone who is or shares similar research interests, please feel free to contact me.
 
 My research areas include:
-Game Theory and Applications, Gragh Machine Learning.
+Operations Research, Emergency Management, Game Theory and Applications, Graph Machine Learning.
 
 ### Education
 * City University of Hong Kong, Kowloon Tong(CityU)\\
-Ph.D candidate. in the Department of Systems Engineering (SYE), College of Engineering\\
+Ph.D in the Department of Systems Engineering (SYE), College of Engineering\\
 Advisor: [Prof. Chuangyin DANG](https://www.cityu.edu.hk/adse/mecdang.htm)\\
 Research Interests: Game Theory and Applications, Economics and Computation, Systems Modeling and Optimization\\
-Sep.2021 - Now
+Sep.2021 - Oct.2025
 
 * Harbin Institute of Technology(HIT)\\
 B.E. degree in Automation\\
