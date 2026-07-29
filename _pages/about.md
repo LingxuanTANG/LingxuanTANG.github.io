@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 Post-doc -- now\\
-Southern University of Science and Technology, China\\
+Southern University of Science and Technology, China
 
 Ph.D\\
 Department of Systems Engineering\\
