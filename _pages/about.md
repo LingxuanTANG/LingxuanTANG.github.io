@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.cityu.edu.hk/sye/'>Department of Systems Engineering, City University of Hong Kong</a>, Kowloon Tong, Kowloon, Hong Kong.
+subtitle: <a href='https://business.sustech.edu.cn/'>College of Business, Southern University of Science and Technology</a>, China.
 
 profile:
   align: right
@@ -14,12 +14,8 @@ news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-Post-doc -- now\\
+Postdoctoral Researcher Fellow-- now\\
 Southern University of Science and Technology, China
-
-Ph.D\\
-Department of Systems Engineering\\
-City University of Hong Kong (CityU)
 
 Phone: (852) 97110226\\
 Email: lingxuantang@outlook.com
@@ -48,4 +44,4 @@ Sep.2017 - Aug.2021
 * Sep. 2022 – Dec. 2022: Teacher in ADSE5010 Eng Mgt Princpls and Concepts at CityU, Hong Kong.
 * Jan. 2023 – Apr. 2023: Teaching in ADSE2100 Engr. Statistics & Exper'ation at CityU, Hong Kong.
 * Sep. 2023 – Dec. 2024: Teaching in ADSE4005 Indu Data & Manufact'g Analyat CityU, Hong Kong.
-* Jul. 2020 – Sep. 2020: Algorithm Intern in [CommaTech](https://www.smartcomma.com/), Shenzhen, China.
+* Jul. 2020 – Sep. 2020: Algorithm Intern at [CommaTech](https://www.smartcomma.com/), Shenzhen, China.
